@@ -1,0 +1,120 @@
+1,Bridges teach patience through steel and river math,Engineer,Brunel
+2,I survey terrain then let geometry guide the span,Engineer,Brunel
+3,A good viaduct is clarity repeated in arches,Engineer,Brunel
+4,Safety grows when tolerances are respected,Engineer,Brunel
+5,Design begins with load and ends with trust,Engineer,Brunel
+6,Every bridge is an essay in material honesty,Engineer,Brunel
+7,The railway teaches speed through alignment,Engineer,Brunel
+8,Engineering means drawing tomorrow on today’s paper,Engineer,Brunel
+9,An engineer solves constraints not wishes,Engineer,Brunel
+10,Steel sings when design is sound,Engineer,Brunel
+11,Blueprints are promises kept in steel,Engineer,Brunel
+12,Foundations decide the fate of arches,Engineer,Brunel
+13,Good drainage protects the lifespan of bridges,Engineer,Brunel
+14,Rivets record the rhythm of the site,Engineer,Brunel
+15,I let soil reports choose the span,Engineer,Brunel
+16,Tunnels respect geology before schedule,Engineer,Brunel
+17,A straight line earns time for passengers,Engineer,Brunel
+18,Survey twice then move one stone,Engineer,Brunel
+19,River pilings need patience and tide sense,Engineer,Brunel
+20,Bold spans grow from careful details,Engineer,Brunel
+21,Steam turns pressure into useful motion,Engineer,Watt
+22,I measure work so machines can be improved,Engineer,Watt
+23,Power follows efficiency not wishful thinking,Engineer,Watt
+24,Precision in the workshop multiplies in the mill,Engineer,Watt
+25,Gaskets and gears are quiet teachers of discipline,Engineer,Watt
+26,Engines reward precision with power,Engineer,Watt
+27,Measure first then let the piston decide,Engineer,Watt
+28,My craft is turning coal into work,Engineer,Watt
+29,Maintenance is hidden genius of machinery,Engineer,Watt
+30,The smallest leak humbles the largest engine,Engineer,Watt
+31,I weigh friction before I chase power,Engineer,Watt
+32,Condensers save energy like disciplined bankers,Engineer,Watt
+33,Pressure gauges teach humility to operators,Engineer,Watt
+34,A clean bearing prevents a thousand failures,Engineer,Watt
+35,Steam is honest when temperatures are measured,Engineer,Watt
+36,I trade heat for work with craft,Engineer,Watt
+37,Efficiency rises when leaks are hunted,Engineer,Watt
+38,Valves speak in pulses I can tune,Engineer,Watt
+39,Workshops reward order with output,Engineer,Watt
+40,Prototype then refine until the engine hums,Engineer,Watt
+41,Curiosity turns doubt into prediction,Physicist,Einstein
+42,I chase invariants so nature stays honest,Physicist,Einstein
+43,Light shows how time and space cooperate,Physicist,Einstein
+44,Thought experiments are laboratories of the mind,Physicist,Einstein
+45,Equations must meet observation at the crossroads,Physicist,Einstein
+46,Space bends under the weight of mass,Physicist,Einstein
+47,Imagination sketches the equations of reality,Physicist,Einstein
+48,The universe is written in relativity,Physicist,Einstein
+49,Energy and mass exchange like trusted partners,Physicist,Einstein
+50,Clocks reveal the secrets of velocity,Physicist,Einstein
+51,Thought experiments test reality with logic,Physicist,Einstein
+52,Relativity makes time a partner not a backdrop,Physicist,Einstein
+53,I ask what stays the same in motion,Physicist,Einstein
+54,Light sets the universal clock for us,Physicist,Einstein
+55,Geometry tells gravity how to act,Physicist,Einstein
+56,Simple principles explain stubborn anomalies,Physicist,Einstein
+57,I follow symmetries to hidden laws,Physicist,Einstein
+58,Curiosity writes equations in quiet rooms,Physicist,Einstein
+59,Frames of reference shape what we observe,Physicist,Einstein
+60,Imagination aims then mathematics corrects,Physicist,Einstein
+61,Careful method turns faint rays into facts,Physicist,Curie
+62,I follow the trail of energy in hidden minerals,Physicist,Curie
+63,Labor is the price of every discovery,Physicist,Curie
+64,In the dark room instruments learn to speak,Physicist,Curie
+65,Evidence is the only badge I wear,Physicist,Curie
+66,Science demands perseverance in silence,Physicist,Curie
+67,The laboratory is my cathedral of truth,Physicist,Curie
+68,Invisible rays shape visible consequences,Physicist,Curie
+69,Knowledge grows where instruments are faithful,Physicist,Curie
+70,Discovery belongs to the disciplined hand,Physicist,Curie
+71,I chase faint signals through careful isolation,Physicist,Curie
+72,Radiant salts teach patience and rigor,Physicist,Curie
+73,Lab notebooks guard truth against fatigue,Physicist,Curie
+74,Glassware whispers when it is clean enough,Physicist,Curie
+75,Lead screens protect focus and health,Physicist,Curie
+76,Repeated trials turn doubt into evidence,Physicist,Curie
+77,New isotopes appear after long washing,Physicist,Curie
+78,Instruments deserve calibration before trust,Physicist,Curie
+79,Discovery grows in silence and salt dust,Physicist,Curie
+80,Work is fruitful when safety is respected,Physicist,Curie
+81,Code is a machine built from logic,Computer Scientist,Turing
+82,I ask what can be computed and how reliably,Computer Scientist,Turing
+83,Abstraction reduces confusion to steps,Computer Scientist,Turing
+84,Patterns in symbols become procedures,Computer Scientist,Turing
+85,Clear specifications prevent silent errors,Computer Scientist,Turing
+86,Algorithms are recipes for certainty,Computer Scientist,Turing
+87,I design machines that reason step by step,Computer Scientist,Turing
+88,Mathematical logic unveils mechanical thought,Computer Scientist,Turing
+89,A question well posed is half computed,Computer Scientist,Turing
+90,Proof guides the architecture of code,Computer Scientist,Turing
+91,I write tests before trusting the procedure,Computer Scientist,Turing
+92,Universal machines teach reuse and elegance,Computer Scientist,Turing
+93,Encoding turns ideas into durable work,Computer Scientist,Turing
+94,Abstraction keeps complexity under control,Computer Scientist,Turing
+95,Verification guards against clever mistakes,Computer Scientist,Turing
+96,Computation is imagination disciplined by rules,Computer Scientist,Turing
+97,The halting problem shows the edge of reason,Computer Scientist,Turing
+98,Machines extend logic beyond human fatigue,Computer Scientist,Turing
+99,To compute is to mechanize thought,Computer Scientist,Turing
+100,Intelligence emerges when symbols are processed faithfully,Computer Scientist,Turing
+101,I make languages servants of clarity,Computer Scientist,Hopper
+102,Programs grow clear when language is precise,Computer Scientist,Hopper
+103,I tame chaos with compilers and discipline,Computer Scientist,Hopper
+104,Debugging is detective work with patience,Computer Scientist,Hopper
+105,Documentation is a gift to future teams,Computer Scientist,Hopper
+106,Graceful code is code that communicates,Computer Scientist,Hopper
+107,I trust compilers to turn ambition into action,Computer Scientist,Hopper
+108,Simplicity in language prevents complexity in bugs,Computer Scientist,Hopper
+109,Each program is a conversation with hardware,Computer Scientist,Hopper
+110,Innovation begins where fear of failure ends,Computer Scientist,Hopper
+111,Compilers turn human intent into action,Computer Scientist,Hopper
+112,Good names prevent bugs from breeding,Computer Scientist,Hopper
+113,I schedule work so teams can breathe,Computer Scientist,Hopper
+114,Debugging is patient science not panic,Computer Scientist,Hopper
+115,Interfaces deserve kindness and stability,Computer Scientist,Hopper
+116,Tools should explain their errors plainly,Computer Scientist,Hopper
+117,Documentation turns experience into shared memory,Computer Scientist,Hopper
+118,Automation frees people to solve harder problems,Computer Scientist,Hopper
+119,Backward compatibility is a promise not a crutch,Computer Scientist,Hopper
+120,Readable code outlives its author,Computer Scientist,Hopper
